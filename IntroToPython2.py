@@ -47,7 +47,7 @@ total_bill = input('Enter total Bill : ')
 total_bill = int(total_bill)
 
 no_diners = input('Number of diners : ')
-no_diners = int(no_dineers)
+no_diners = int(no_diners)
 each_p = total_bill/no_diners
 print('Each person should pay',each_p)
 
@@ -70,5 +70,6 @@ kgs = pounds_lbs*2.204
 print('there are',kgs,'kilograms in',pounds_lbs,'pounds')
 
           
+
 
 
