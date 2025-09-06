@@ -1,3 +1,6 @@
+#Athor = Saksham Joshi
+#Date = 4th of Semptember 2025
+#description = working with if and else commands 
 user_age = input('enter your age : ')
 user_age = int(user_age)
 
