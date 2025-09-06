@@ -1,3 +1,6 @@
+#Athor = Saksham Joshi
+#Date = 1st of Semptember 2025
+#description = Program to request user name as input and return the same with a greeting 
 user_height = input('Enter Your height in cm: ')
 user_height = int(user_height)
 user_height_in_foot = user_height/30.48
