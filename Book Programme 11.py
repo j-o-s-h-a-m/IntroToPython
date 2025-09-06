@@ -1,3 +1,6 @@
+#Athor = Saksham Joshi
+#Date = 1st of Semptember 2025
+#description = Program to request user name as input and return the same with a greeting 
 p = input('enter Principal : ')
 p = float(p)
 r = input('Enter rate of interest : ')
