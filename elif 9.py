@@ -1,3 +1,6 @@
+#Athor = Saksham Joshi
+#Date = 4th of Semptember 2025
+#description = working with if and else commands 
 units = input('Enter units used : ')
 units = int(units)
 
