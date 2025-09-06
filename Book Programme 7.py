@@ -1,3 +1,6 @@
+#Athor = Saksham Joshi
+#Date = 1st of Semptember 2025
+#description = Program to request user name as input and return the same with a greeting 
 subject_1 =input('Enter Your 1 subject : ')
 subject_1 =int(subject_1)
 subject_2 =input('Enter Your 2 subject : ')
@@ -12,4 +15,5 @@ subject_5 = int(subject_5)
 average = (subject_1 + subject_2 + subject_3 + subject_4 + subject_5)/5
 
 print(average)
+
 
