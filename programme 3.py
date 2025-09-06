@@ -1,3 +1,6 @@
+#Athor = Saksham Joshi
+#Date = 1st of Semptember 2025
+#description = Program to request user name as input and return the same with a greeting 
 First_number = input(' first Number : ')
 First_number = int(First_number)
 
@@ -8,4 +11,5 @@ third_number = int(third_number)
 
 total2 = First_number + Second_number + third_number
 total3 = total + total2
+
 print(total3)
