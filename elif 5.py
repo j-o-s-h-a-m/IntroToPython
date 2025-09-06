@@ -1,4 +1,4 @@
-#Athor = Saksham Joshi
+#Author = Saksham Joshi
 #Date = 4th of Semptember 2025
 #description = working with if and else commands 
 #updated input function to add lower()
@@ -13,4 +13,5 @@ elif is_raining == ('yes') and user_windy == ('yes') :
 else :
   print('have a good day')
   
+
 
