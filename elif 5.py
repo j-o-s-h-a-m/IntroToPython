@@ -1,6 +1,7 @@
 #Athor = Saksham Joshi
 #Date = 4th of Semptember 2025
 #description = working with if and else commands 
+#updated input function to add lower()
 is_raining = input('is it raining outside : ').lower()
 user_windy = input('is it windy outside : ').lower()
 
