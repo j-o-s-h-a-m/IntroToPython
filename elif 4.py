@@ -1,6 +1,7 @@
 #Athor = Saksham Joshi
-#Date = 1st of Semptember 2025
-#description = working with if and else commands user_color = input('Enter Your color : ')
+#Date = 4th of Semptember 2025
+#description = working with if and else commands 
+user_color = input('Enter Your color : ')
 
 if user_color == ('red' , 'RED' , 'Red' , 'der'):
     print('I like red too')
