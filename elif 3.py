@@ -1,6 +1,7 @@
 #Athor = Saksham Joshi
-#Date = 1st of Semptember 2025
-#description = working with if and else commands number = input('Enter number in the rabge of 10 to 20 : ')
+#Date = 4th of Semptember 2025
+#description = working with if and else commands 
+number = input('Enter number in the rabge of 10 to 20 : ')
 number = int(number)
 
 if number < 10 or number >20 :
