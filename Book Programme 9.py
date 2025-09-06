@@ -1,3 +1,7 @@
+#Athor = Saksham Joshi
+#Date = 1st of Semptember 2025
+#description = Program to request user name as input and return the same with a greeting 
+
 n = input('input a value for n : ')
 n = float(n)
 n_2 = n**2
