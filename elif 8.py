@@ -7,3 +7,5 @@ elif no == 2 :
   print('well done')
 elif no == 3 :
   print('correct')
+else : 
+  print('error message')
