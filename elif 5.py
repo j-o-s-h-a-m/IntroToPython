@@ -1,6 +1,6 @@
 #Athor = Saksham Joshi
-#Date = 1st of Semptember 2025
-#description = working with if and else commands
+#Date = 4th of Semptember 2025
+#description = working with if and else commands 
 is_raining = input('is it raining outside : ')
 user_windy = input('is it windy outside : ')
 
@@ -12,3 +12,4 @@ elif is_raining == ('yes' or 'Yes') and user_windy == ('yes' or 'Yes') :
 else :
   print('have a good day')
   
+
