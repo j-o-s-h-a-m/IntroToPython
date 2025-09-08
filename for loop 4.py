@@ -7,5 +7,5 @@ times = input('Nuber of times you want it to repeat : ')
 time = int(times)
 
 for letter in user_name:
-  for letter in range(time):
+  for run in range(time):
     print(letter)
