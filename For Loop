@@ -3,6 +3,6 @@
 #For loops
 
 user_name = input('enter your name : ')
-for user_name :
-  for i in range(3):
-      print(user_name)
+#for i in user_name:
+for new in range(3):
+    print(user_name)
