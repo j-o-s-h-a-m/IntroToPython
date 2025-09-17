@@ -1,0 +1,32 @@
+Q1 missing from github
+
+-----------------------------
+Well done on Q2 Q5 Q6 Q8
+
+-----------------------------
+Q3 you have enter your  second name instead of number also wrapping the inputs in int makes it that the user cant enter a decimal.
+
+-----------------------------
+Q4 you added all three numbers and assigned it total2 then you tried to add total and total2. total is not a variable used in 
+the programme. You want to add the first two numbers assign that to a variable and then multiply it by the third number 
+and print that
+
+-----------------------------
+Q7 wrapping the input in int doesnt let the user enter a bill with a decimal with giving an error
+
+-----------------------------
+Q9 wrapping the input in int doesnt let the user enter a weight with a decimal with giving an error also the print should read in 
+____ kgs there are ____ pounds
+
+-----------------------------
+Activities from book
+Well done on Q6 Q8 Q9
+
+-----------------------------
+Q7 wrapping the input in int prevents the user from entering a result with a decimal without getting an error
+
+-----------------------------
+Q10 for the area you have the half the height by the height when it should be half base by height
+
+-----------------------------
+Q11 the formulas for both interests are incorrect.
