@@ -1,0 +1,31 @@
+Q1 the code is correct however it prints out the larger number first.
+Q2 the code is correct however it says thank you when you put a number over 20 instead of under.
+These issues could be corrected by checking you output is giving what the question asked.
+
+-----------------------------------
+Well done on Q3 Q7 Q8
+
+-----------------------------------
+Q4 user_color == ('red', 'RED', 'Red', 'der') checks if the whole value of user_color is exactly equal to the all the values, 
+not if it matches any one of the colors. You need to check each option separately using or e.g. 
+if user_color == 'red' or user_color == 'RED' or user_color == 'Red':
+
+-----------------------------------
+Q5 the question wants the programme to ask the user if its raining first and then based on that answer is ask is it windy.
+This means the windy input and if statement should be inside the rain if statement.
+
+-----------------------------------
+Q6 Converting the input to and int doesnt need to be done e.g. if user_age = '17'. Also since you converted it the 
+if user_age = int(username) will always be true because it is converted.
+Users that age are over 18 are told to go trick or treating it should be if user_age >= 18 they can vote.
+You are missing the if user_age = 16 then they can buy scratch tickets. Again check your code is doing everything that 
+is asked.
+
+-----------------------------------
+Q9 the code does not seperate out the different rates i.e first rate * 5%, second 10%.... 
+also if you are multipling by the number percent and not as a decimal make sure you divide the answer by 100. e.g.
+
+bill = 100
+bill * 5 = 500
+(bill * 5)/100 = 5
+

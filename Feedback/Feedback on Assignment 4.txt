@@ -1,0 +1,21 @@
+Well done on Q1 Q6 Q8
+
+------------------------
+Q2 it is supposed to print the even numbers up to a given userber.
+
+------------------------
+Q3 and Q4 you used range(1, user), your code adds up all the numbers up to but not 
+including the last number entered. Remember that in Python, the range() function stops before the second value. 
+To include the final number, you should use range(1, user+1). Also on Q9 it doesnt multiply by the last number in the 
+factoral e.g. if i input 3 it will just do 1*2 when it should do 1*2*3
+
+------------------------
+Q5 the table only goes up to num * 10 you need the range to be up to 13 to account for the it not including the number you 
+enter. Also you should print out what is being multipled i.e. print(i,'x',user,'=',total)
+
+------------------------
+Q7 not uploaded on github please upload asap.
+
+------------------------
+General note: if you put the print statement outside of the for loop it will print the result after instead of everytime it 
+goes through the loop.

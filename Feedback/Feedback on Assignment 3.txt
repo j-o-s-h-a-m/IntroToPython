@@ -1,0 +1,6 @@
+Well done on Q1 Q2 Q3 Q5
+
+-------------------------
+Q4 your outer loop goes through each letter of the name, so each letter is repeated before moving to the next
+to repeat the full name in order, the outer loop should run for the number of repetitions and the inner loop should 
+go through the letters.
