@@ -9,8 +9,8 @@ Second_number = float(Second_number)
 third_number = input('Third number :  ')
 third_number = float(third_number)
 
-total2 = First_number + Second_number + third_number
-total3 = total + total2
+total = First_number + Second_number + third_number
 
 print(total3)
+
 
