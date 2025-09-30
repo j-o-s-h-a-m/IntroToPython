@@ -11,6 +11,7 @@ third_number = float(third_number)
 
 total = First_number + Second_number + third_number
 
-print(total3)
+print(total)
+
 
 
