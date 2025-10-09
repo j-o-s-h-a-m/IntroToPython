@@ -1,3 +1,7 @@
+#Athor = Saksham Joshi
+#Date = 7st of october 2025
+#description = Program to request user a input and return the average
+
 n = -1 #enter your default value
 total = 0 
 count = 0
