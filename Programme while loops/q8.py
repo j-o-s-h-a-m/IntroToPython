@@ -1,6 +1,6 @@
 #Athor = Saksham Joshi
 #Date = 1st of Semptember 2025
-#description = Program to request user name as input and return the same with a greeting
+#description = Write a program which asks the user to guess a value you have set in your code. The program should tell them if their guess is too high or too low and print a well done message when they guess it correct telling them how many attempts it took.
 wn = 1
 total = 0
 
