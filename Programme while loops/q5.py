@@ -1,6 +1,6 @@
 #Athor = Saksham Joshi
 #Date = 1st of Semptember 2025
-#description = Program to request user name as input and return the same with a greeting
+#description = Write a program that prints from 1 to n squared using a while loop. It should stop the while loop if the iteration count is 50. (Hint use break)
 number = int(input('Input a number : '))
 count = 1
 
