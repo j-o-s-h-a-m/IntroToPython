@@ -1,6 +1,6 @@
 #Athor = Saksham Joshi
 #Date = 1st of Semptember 2025
-#description = Program to request user name as input and return the same with a greeting
+#description = Write a program that takes integers from the user and returns the average. Use a while loop and make an empty string the stop criteria.
 number = 2
 total = 0
 count = 0
