@@ -14,9 +14,11 @@ y = int(y)
 for i in number:
     i = int(i)
     i = i**y
-    total += i 
+    total += i
+
+print(total)
     
-if total == number :
+if total == int(number) :
     print('This number is an armstrong number')
 else :
     print('Think about your life decisions')
