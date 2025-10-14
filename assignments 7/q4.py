@@ -1,6 +1,6 @@
 #Athor = Saksham Joshi
 #Date = 1st of Semptember 2025
-#description = Write a program to enter numbers until the user enters 0. Then it should print the count of the positive and negative numbers entered. You can assume all input is numeric.
+#description = Write a program to convert Decimal to Binary. Don’t worry if the answer is in reverse, we will see how to fix this soon
 
 n =  2
 total = 0
