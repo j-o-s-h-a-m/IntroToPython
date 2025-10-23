@@ -1,4 +1,8 @@
 
+#Write a program to calculate the length of a string using :
+#i) A for loop
+#ii) A while loop
+
 # A for loop
 word = input('Enter Your word : ')
 count = 0
