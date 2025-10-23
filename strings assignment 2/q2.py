@@ -1,4 +1,5 @@
-
+#Author = Saksham joshi
+#23/10/2025
 #Write a program to calculate the length of a string using :
 #i) A for loop
 #ii) A while loop
