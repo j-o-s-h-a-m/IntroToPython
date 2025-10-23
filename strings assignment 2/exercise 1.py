@@ -1,3 +1,7 @@
+#Author = Saksham joshi
+#9/8/2025
+#Write some code to test all the Python string methods given on the Python reference guide.
+
 variable = input('Enter Your statement: ')
 print(variable.upper())
 print(variable.lower())
