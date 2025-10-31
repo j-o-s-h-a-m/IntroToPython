@@ -1,4 +1,6 @@
-
+#Author = Saksham Joshi
+#date = 31/10/2025
+#Write a Python program to print every integer between 1 and n divisible by m. Also report whether the number that is divisible by m is even or odd.
 
 
 
