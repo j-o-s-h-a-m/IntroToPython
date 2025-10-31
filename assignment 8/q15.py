@@ -1,5 +1,3 @@
 #Author = Saksham Joshi
 #date = 31/10/2025
-#Write a program to take N (N > 20) as an input from the user. Print numbers from 11 to N. When the
-#number is a multiple of 3, print "Tipsy", when it is a multiple of 7, print "Topsy". When it is a multiple
-#of both, print "TipsyTopsy".
+#Write a short program to find largest number of a list of numbers entered through keyboard.
