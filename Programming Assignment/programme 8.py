@@ -1,3 +1,6 @@
+#Author = Saksham Joshi
+#date = 9/11/2025
+#for loop assignments 
 user = int(input('Enter a positive integer: '))
 factorial = 1
 
