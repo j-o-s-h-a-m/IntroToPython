@@ -9,6 +9,10 @@ for i in x :
     elif i == ' ':
         if count > maximum :
             maximum = count
+            print(x[count])
+        new_v += i 
+            
+            
         count = 0 
 
 print(maximum)
