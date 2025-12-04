@@ -32,5 +32,9 @@ for i in x :
     while n != 0 :
         r = n%2
         n = n//2
+        r = str(r)
         print(r)
-
+        count += 1
+        if count >= 4 :
+            value = value + r
+        elif count 
