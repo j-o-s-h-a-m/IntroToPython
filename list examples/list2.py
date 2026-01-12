@@ -12,7 +12,8 @@ while True:
         pos = int(input("Insert at which position?"))
         index = pos - 1
         val.insert(index,item)
-    elif ch == 1:
+        print('success! list now is : ',val)
+    elif ch == 2:
         print(" deletion Menu")
         print("1.delete using value")
         print("2.Delete using index")
