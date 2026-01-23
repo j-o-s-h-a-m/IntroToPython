@@ -1,16 +1,7 @@
-x=[1,2,4]
-print(x)
+lst1 = []
+lst2 = []
 
-count = 0 
+i1 = eval(input('Enter a number to enter in the list 1 : '))
+i2 = eval(input('enter a number to enter in the list 2 : '))
 
-for i in x:
-    x[len(x)-count] = i
-    count += +1
-print(x)
-
-
-
-
-
-
-
+print(i1+i2)
