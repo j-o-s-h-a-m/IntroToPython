@@ -1,31 +1,32 @@
-word = 'sauce'
-blank = ''
-for i in word:
-    blank += ' _'
-n = 0
-y = ''
-tries = 20
+word = 'saauce'
 pos = 0
-count = 0
-while n == 0 :
+blank=''
+n = 0
+tries = 20
+count = 0 
+# Blank
+for y in word:
+    blank += '_'
+
+#User Interface 
+while n == 0:
     print(blank)
-    print('tries left :',tries)
-    char = input('enter a character: ')
+    char = input('Enter a letter : ')
     y += char
-    if char in word:
-        print('letter is in the secret word')
-        pos = word.index(char)
-    elif char in blank :
-        print('the letter has already been guessed')
-    else :
-        print('the Letter is not in the secret word')
-        tries -= 1
     for i in word:
-        if count == pos :
-            blank += i
-        else :
-            blank += '_'
+        if count < len(word):
+            if char == i and char is not in y :
+                print('Charracter found at position ',pos)
+                blank = blank[0:pos] +char + blank[pos+1:]
+                tries -= 1
+                count += 1
+            elif char in y :
+                print('letter already picked')
+                tries -= 1
+            else:
+                print('Letter is not in the word')
+                tries -= 1
+        pos = pos+1
+        pos = 0 
     
     
-
-
