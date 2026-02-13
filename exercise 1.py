@@ -77,3 +77,10 @@ while q != 'q' :
             print('The answer is wrong')
             print(ans)
 
+
+        
+    
+
+
+
+
