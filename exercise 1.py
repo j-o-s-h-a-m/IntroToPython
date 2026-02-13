@@ -28,24 +28,24 @@ while tries <= 7:
             break
 
 #maths quiz
+import random
 q = ''
 score = 0
 while q != 'q' :
-    print(score)
+    print('Your score is',score)
     q = input('to quit type q else type n : ')
     x = random.randint(1,100)
     y = random.randint(1,100)
     operators = [ '+' , '-' , '*' , '//' ]
     ranop = random.choice(operators)
     print(x), print(ranop) , print(y)
-    ans = input('input your answer: ')
-    score = 0
+    ans = int(input('input your answer: '))
     if ranop == '+' :
-        mans = x + y
+        mans = float(x + y)
         if ans == mans :
             print('Thats right')
             score += 1
-            print(ans)
+            print(mans)
         elif ans != mans :
             print('The answer is wrong')
             print(ans)
@@ -76,11 +76,3 @@ while q != 'q' :
         elif ans != mans :
             print('The answer is wrong')
             print(ans)
-
-
-        
-    
-
-
-
-
