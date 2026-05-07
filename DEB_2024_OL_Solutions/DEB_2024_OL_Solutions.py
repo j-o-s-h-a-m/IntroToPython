@@ -1,4 +1,4 @@
-author = saksham joshi
+#author = saksham joshi
 
 
 print("Household budget calculator.  Enter the following information:")

@@ -1,4 +1,5 @@
-author = saksham joshi
+#author = saksham joshi
+'''
 num2 = float(input("Please enter your second number: "))
 
 if option == "a":
@@ -16,7 +17,7 @@ elif option == "m":
 elif option == "d":
     result = num1 / num2
     print(f"{num1} / {num2} = {round(result, 2)}")
-
+'''
 
 
 import random
