@@ -19,6 +19,7 @@ print(int(smallest))
 print(int(largest))
 
 raangi = largest - smallest
+print(raangi)
 
 n = len(lst)
 if n%2 == 0:
@@ -27,4 +28,16 @@ elif n%2 != 0:
     median = ((n/2) + ((n/2)+1))/2
 
 print(median)
+lst1 = []
+for i in lst:
+    if i not in lst1:
+        lst1.append(i)
+    else:
+        continue
+        
+print(lst1)
+    
+for i in lst1 :
+    if i in lst1:
+        eval(mode) = mode + i , list.count(i) 
 
