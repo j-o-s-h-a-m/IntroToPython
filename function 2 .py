@@ -34,10 +34,12 @@ for i in lst:
         lst1.append(i)
     else:
         continue
-        
-print(lst1)
+
     
-for i in lst1 :
-    if i in lst1:
-        eval(mode) = mode + i , list.count(i) 
+    
+
+        
+        
+    
+
 
